@@ -1,0 +1,34 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "127.0.0.1",
+            "port": 9042,
+            "previewLimit": 50,
+            "driver": "Cassandra",
+            "name": "nodo 1",
+            "database": "tienda",
+            "username": "admin1",
+            "password": "admin1"
+        },
+        {
+            "server": "127.0.0.1",
+            "port": 9043,
+            "previewLimit": 50,
+            "driver": "Cassandra",
+            "name": "nodo 2",
+            "database": "tienda",
+            "username": "admin2",
+            "password": "admin2"
+        },
+        {
+            "server": "127.0.0.1",
+            "port": 9044,
+            "previewLimit": 50,
+            "driver": "Cassandra",
+            "name": "nodo 3",
+            "database": "tienda",
+            "username": "admin3",
+            "password": "admin3"
+        }
+    ]
+}

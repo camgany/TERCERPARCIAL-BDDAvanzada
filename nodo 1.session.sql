@@ -1,0 +1,2 @@
+DESCRIBE TABLES;
+SELECT * FROM productos;
